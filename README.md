@@ -1,2 +1,2 @@
 # robosub
-The software for Competitive Robotics Underwater Autonomous 
+The software for Competitive Robotics Underwater Autonomous Vehicle
