@@ -42,3 +42,4 @@ grep -q 'export ROS_DOMAIN_ID=' ~/.bashrc || echo 'export ROS_DOMAIN_ID=1' >> ~/
 grep -q 'export ROS_NAMESPACE=' ~/.bashrc || echo 'export ROS_NAMESPACE=hornet_robotics_robosub' >> ~/.bashrc
 
 source ~/.bashrc
+
